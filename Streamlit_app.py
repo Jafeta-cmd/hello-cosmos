@@ -1,3 +1,3 @@
-st.title("welcome cosmos..")
+st.title("hello-cosmos")
 
 St.write("my ma has just passed with colors")
